@@ -1,4 +1,5 @@
 # ClimbHelper
 P-Uppgift
 Filip Stål
-19920112
+
+First own project in intro-programming course
